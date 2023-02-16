@@ -6,10 +6,13 @@
 
 ### Praticando os exercícios na linguagem Java.
 
- No momento estou praticando os exercícios que constam nos capítulos 3 [Estrutura Sequencial] e capítulo 4 [Estrutura Condicional] do respectivo livro.</p> 
+ No momento estou praticando os exercícios que constam nos:
+ - [x]capítulo 3 [Estrutura Sequencial];
+ - [x]capítulo 4 [Estrutura Condicional];
+ - [x]capítulo 5 [Estrutura de Repetição];
 
 <br>
 
-### Ferramentas utilizas para resoluções dos exercícios:
+### Ferramentas utilizadas para resoluções dos exercícios:
 - Sistema operacional: Ubuntu 20.04.5 LTS; 
 - IDE Eclipse : Version: 2022-03 (4.23.0);
