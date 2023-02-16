@@ -1,4 +1,4 @@
-# Resoluções dos exercícios do livro:
+:relaxed: # Resoluções dos exercícios do livro:
 
 ### Fundamentos da programação de computadores : algoritmos,PASCAL, C/C++ (padrão ANSI) e JAVA.
 
