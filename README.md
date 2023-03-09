@@ -10,6 +10,15 @@
 - [x] capítulo 3 [Estrutura Sequencial];
 - [x] capítulo 4 [Estrutura Condicional];
 - [x] capítulo 5 [Estrutura de Repetição];
+- [x] capítulo 6 [Vetores] 
+
+* O **vetor** trata de um conjunto de variáveis de mesmo tipo, que possuem o mesmo identificador (nome) e são alocadas sequencialmente na memória. Como as variáveis têm o mesmo nome, o que as distingue é um índice que referencia sua localização dentro da estrutura.
+
+Vetor com cinco posições
+
+| 1 | 2 | 3 | 4 | 5 |
+|:-:|:-:|:-:|:-:|:-:|
+|   |   |   |   |   |
 
 <br>
 
